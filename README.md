@@ -10,7 +10,10 @@ You should have python3 install.You should be in the same Directory and give sud
 `sudo  python3 ./spider -t <http://target>`
 
 # Result
-![Screenshot_2022-12-25_02-38-32](https://user-images.githubusercontent.com/80875411/209460524-39db3fbd-1e11-45b0-9a5f-67eefa135137.png)
+
+![Screenshot_2022-12-25_02-38-32](https://user-images.githubusercontent.com/80875411/209461037-1e036ebe-199a-497f-a954-e725964cf0ef.png)
+
+
 
 # Disclaimer
 
